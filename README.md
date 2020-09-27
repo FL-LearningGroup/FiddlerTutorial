@@ -8,4 +8,7 @@ Capture all HTTP(S) trallic between your computer with the Internet with Fiddler
 + Composer
 + Filters
 
+## Where Use
+### PowerShell
++ Captruing Invoke-RestMethod: https://stackoverflow.com/questions/24936541/fiddler-not-intercepting-powershell-web-requests
 
